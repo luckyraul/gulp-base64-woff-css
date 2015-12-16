@@ -1,6 +1,6 @@
 {
     "name": "gulp-base64-woff-css",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "description": "Gulp plugin to generate css files with Base64 encoded font css from woff",
     "main": "index.js",
     "scripts": {
