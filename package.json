@@ -1,0 +1,31 @@
+{
+    "name": "gulp-base64-woff-css",
+    "version": "1.0.0",
+    "description": "Gulp plugin to generate css files with Base64 encoded font css from woff",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/luckyraul/gulp-base64-woff-css.git"
+    },
+    "keywords": [
+        "webfonts",
+        "css",
+        "base64",
+        "google fonts"
+    ],
+    "author": "Nikita Tarasov",
+    "license": "GPL-3.0",
+    "bugs": {
+        "url": "https://github.com/luckyraul/gulp-base64-woff-css/issues"
+    },
+    "homepage": "https://github.com/luckyraul/gulp-base64-woff-css",
+    "dependencies": {
+        "through2": "^0.6.5"
+    },
+    "devDependencies": {
+        "gulp": "^3.9.0"
+    }
+}
